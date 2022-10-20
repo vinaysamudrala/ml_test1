@@ -1,2 +1,6 @@
  HI
+ c1
+ s1
+
+ day two update on presrnt 2nd file test 2
  
